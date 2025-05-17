@@ -1,0 +1,16 @@
+[profile.default]
+out = "out"
+libs = ["lib"]
+
+src = "contract/src"
+script = "contract/script"
+
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+# [rpc_endpoints]
+# anvil = "${RPC_URL}"
+
+# [profiles.localnet]
+# rpc_url = "anvil"
+# private_keys = [ "${PRIVATE_KEY}" ]

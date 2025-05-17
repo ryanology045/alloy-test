@@ -1,0 +1,11 @@
+/Users/ryanpark/projects/alloy-test/cli/target/debug/deps/liballoy_signer-c34d67e46e619612.rmeta: /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/lib.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/error.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/signer.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/utils.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/../README.md
+
+/Users/ryanpark/projects/alloy-test/cli/target/debug/deps/liballoy_signer-c34d67e46e619612.rlib: /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/lib.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/error.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/signer.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/utils.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/../README.md
+
+/Users/ryanpark/projects/alloy-test/cli/target/debug/deps/alloy_signer-c34d67e46e619612.d: /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/lib.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/error.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/signer.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/utils.rs /Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/../README.md
+
+/Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/lib.rs:
+/Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/error.rs:
+/Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/signer.rs:
+/Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/utils.rs:
+/Users/ryanpark/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-1.0.3/src/../README.md:

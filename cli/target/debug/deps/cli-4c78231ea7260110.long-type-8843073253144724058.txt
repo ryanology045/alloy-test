@@ -1,0 +1,2 @@
+contract::eth_call::EthCall<'_, PhantomData<getNumberCall>, network::ethereum::Ethereum>
+alloy::alloy_contract::EthCall<'_, PhantomData<getNumberCall>, alloy::alloy_network::Ethereum>
